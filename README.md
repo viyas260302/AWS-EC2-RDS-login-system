@@ -38,6 +38,10 @@ Users can register with a username and password and log in through a web interfa
 7. Deploy the PHP application.
 8. Access the application using the EC2 Public IP.
 
+   <img width="800" height="345" alt="image" src="https://github.com/user-attachments/assets/8fd1638a-45f9-48dd-b8e9-515a96bc9ca1" />
+
+<img width="800" height="41" alt="image" src="https://github.com/user-attachments/assets/01df6e38-3f20-4073-a285-5dbe4fee88be" />
+
 ##  Learning Outcomes
 
 Through this project, I learned:
